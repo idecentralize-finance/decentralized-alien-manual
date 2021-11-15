@@ -4,7 +4,7 @@ description: The guide to become a decentralized alien.
 
 # Decentralized alien manual
 
-![](.gitbook/assets/moonAlien.png)
+![Where no alien has gone before](.gitbook/assets/moonAlien.png)
 
 ### Introduction
 
