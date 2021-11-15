@@ -8,4 +8,4 @@ description: An alien like no others
 
 Each alien is a unique ERC721 decentralized entity. You can use them as your avatar, collect, trade and gift them. The aliens are also the entry point to the protocol. To access higher tier of services and rewards you will need one.
 
-Your aliens are&#x20;
+Once you mint your alien, new features will be available.
