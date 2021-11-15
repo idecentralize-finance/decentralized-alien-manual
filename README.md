@@ -12,7 +12,7 @@ To become an alien one must first acquire an alien. Once you own an alien you ar
 
 Introduction
 
-We took a concept you like and added a layer of fun. The alien avatar is your IDFI identity and can give you access to various bonus.
+We took a concept you like and added a layer of fun. The alien avatar is your IDFI identity and can give you access to various bonuses.
 
 Aliens and Defi, plus a whole galaxy of NFT's. With this app you are an Alien that is investing in planets. You will use fuel and more aliens to create your ship. When your ship gets big enough, you can have your own planet.
 
