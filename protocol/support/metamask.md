@@ -4,7 +4,7 @@ description: >-
   device.
 ---
 
-# Everything an Alien needs to know about Metamask
+# Everything an :Alien: needs to know about Metamask
 
 ![](../../.gitbook/assets/400px-Metamask.png)
 
