@@ -89,4 +89,4 @@ Upon completion you will be automatically put into Account 1 of your new Metamas
 
 Congratulations! At this point Metamask is already connected to the Ethereum Mainnet by default.
 
-IMPORTANT - Your 12 word seed phase is the only thing that allows you to secure your wallet. You should keep it safe and in a place that is hidden. If you ever need to do a PC reset or you want to move your wallet to another machine, you will need you 12 word seed phrase to do this.
+IMPORTANT - Your 12 word seed phase is the only thing that allows you to secure your wallet. You should keep it safe and in a place that is hidden. If you ever need to do a PC reset or you want to move your wallet to another machine, you will need your 12 word seed phrase to do this.
