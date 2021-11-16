@@ -12,6 +12,8 @@ Step 1
 
 Go to the Metamask website and download the Metamask browser extension for you Operating System.
     -https://metamask.io/
+    ![](../../.gitbook/assets/metamask-download-screen.png)
+    
     
 Step 2
 
