@@ -8,36 +8,78 @@ description: >-
 
 ![](../../.gitbook/assets/400px-Metamask.png)
 
-### Step 1 - Ethereum Wallet
+Step 1
 
 Go to the Metamask website and download the Metamask browser extension for you Operating System.
-
-{% embed url="https://metamask.io" %}
-Link to download page
-{% endembed %}
-
-&#x20;
-
-![](../../.gitbook/assets/spaces\_VvklHfuWf5wAo6gCXJEJ\_uploads\_git-blob-4c01035a142bcd5f16b3ae9d09469303dbac1a97\_metamask-download-screen.png)
-
+    -https://metamask.io/
+    ![](../../.gitbook/assets/metamask-download-screen.png)
+    
+    
 Step 2
 
-Click "Get Started" and it will begin the setup process.
+Pick your Browser that you want to add Metamask to.
+![](../../.gitbook/assets/pick-your-browser.png)
 
 Step 3
 
-Enter a Password and click "Create" to make your wallet.
+Click "Add to browser".
+![](../../.gitbook/assets/add-to-browser.png)
 
 Step 4
 
-Read and agree to the terms and conditions.
+Click "Add extension."
+![](../../.gitbook/assets/add-extension.png)
 
 Step 5
-
-Next, a short video will talk to you about the Metamask wallet. Then, a blurred out box will appear, click it and you will see your 12 word seed phrase. You need to write them down somewhere safe in the exact order they appear. Once you have them written down, then proceed with the setup.
+Click "Get Started."
+![](../../.gitbook/assets/get-started.png)
 
 Step 6
 
-Next it will have you enter the 12 word seed phrase. Upon completion you will be automatically put into Account 1 of your new Metamask Wallet. Congratulations! At this point Metamask is already connected to the Ethereum Mainnet by default. We will show you how to add the Polygon Network and the Binance Smart Chain to your Metamask wallet in the next section.
+Click "Create a wallet."
+![](../../.gitbook/assets/create-a-wallet.png)
 
-IMPORTANT - Your 12 word seed phase is the only thing that allows you to secure your wallet. You should keep it safe and in a place that is hidden. If you ever need to do a PC reset or you want to move your wallet to another machine, you will need you 12 word seed phrase to do this.
+Step 7
+
+Click on "I Agree."
+![](../../.gitbook/assets/click-i-agree.png)
+
+Step 8
+
+Create your password and accept the terms.
+![](../../.gitbook/assets/reate-password.png)
+
+Step 9
+
+Watch the video for information on your seed phrase.
+![](../../.gitbook/assets/watch-video.png)
+
+Step 10
+
+Click "reveal seed phrase.
+![](../../.gitbook/assets/click-to-reveal-seed.png)
+
+Step 11
+Copy you seed phrase somewhere safe.
+![](../../.gitbook/assets/copy-seed-phrase.png)
+
+Step 12
+
+Confirm your seed phrase.
+![](../../.gitbook/assets/confirm-seed.png)
+
+
+
+
+
+
+Upon completion you will be automatically put into Account 1 of your new Metamask Wallet .
+![](../../.gitbook/assets/ETH-mainnet.png)
+
+Congratulations! At this point Metamask is already connected to the Ethereum Mainnet by default. We will show you how to add the Polygon Network and the
+Binance Smart Chain to your Metamask wallet in the next section.
+
+IMPORTANT - Your 12 word seed phase is the only thing that allows you to secure your wallet. You should keep it safe and in a place that is hidden.
+            If you ever need to do a PC reset or you want to move your wallet to another machine, you will need you 12 word seed phrase to do this.
+
+
