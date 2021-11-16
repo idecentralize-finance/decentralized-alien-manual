@@ -33,7 +33,7 @@ witten down, click "Proceed"
 Step 6
 
 Next it will have you enter the 12 word seed phrase. Upon completion you will be automatically put into Account 1 of your new Metamask Wallet. 
-Congratulations! At this point Metamask is already connected to the Ethereum Main net by default. We will show you how to add the Polygon Network and the
+Congratulations! At this point Metamask is already connected to the Ethereum Mainnet by default. We will show you how to add the Polygon Network and the
 Binance Smart Chain to your Metamask wallet in the next section.
 
 
