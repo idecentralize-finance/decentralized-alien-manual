@@ -13,4 +13,6 @@
   * [NEAR](protocol/networks/near.md)
 * [📔 Smart Contracts](protocol/smart-contracts.md)
 * [🔐 Security & Monitoring](protocol/security-and-monitoring.md)
-* [🙋 Support](protocol/support.md)
+* [🙋 Support](protocol/support/README.md)
+  * [FAQ](protocol/support/faq.md)
+  * [Metamask](protocol/support/metamask.md)
