@@ -4,7 +4,7 @@ description: >-
   device.
 ---
 
-# Metamask
+# Metamask Guide for Decentralized Aliens
 
 ![](../../.gitbook/assets/400px-Metamask.png)
 
