@@ -18,66 +18,66 @@ Link to metamask.io
 
 ![](../../.gitbook/assets/metamask-download-screen.png)
 
-### Pick Your Browser
+### Step 2: Pick Your Browser
 
 Pick your Browser that you want to add Metamask to.
 
 ![](../../.gitbook/assets/pick-your-browser.png)
 
-### Add Your Browser
+### Step 3: Add Your Browser
 
 Click "Add to browser".
 
 ![](../../.gitbook/assets/add-to-browser.png)
 
-### Add the Extension
+### Step 4: Add the Extension
 
 Click "Add extension." 
 
 ![](../../.gitbook/assets/add-extension.png)
 
-### Get Started 
+### Step 5: Get Started 
 
 Click "Get Started." 
 
 [](../../.gitbook/assets/get-started.png)
 
-### Create Wallet
+### Step 6: Create Wallet
 
 Click "Create a wallet." 
 
 ![](../../.gitbook/assets/create-a-wallet.png)
 
-### Agree
+### Step 7: Agree
 
 Click on "I Agree." 
 
 ![](../../.gitbook/assets/click-i-agree.png)
 
-### Create Your Password
+### Step 8: Create Your Password
 
 Create your password and accept the terms. 
 
 ![](../../.gitbook/assets/reate-password.png)
 
-### Watch Video
+### Step 9: Watch Video
 
 Watch the video for information on your seed phrase. 
 
 ![](../../.gitbook/assets/watch-video.png)
 
-### Reveal Seed Phrase
+### Step 10: Reveal Seed Phrase
 
 Click "reveal seed phrase. 
 
 ![](../../.gitbook/assets/click-to-reveal-seed.png)
 
-### Copy Seed Phrase and Keep It Safe.
+### Step 11: Copy Seed Phrase and Keep It Safe.
 Copy you seed phrase somewhere safe. 
 
 ![](../../.gitbook/assets/copy-seed-phrase.png)
 
-### Confirm Seed Phrase
+### Step 12: Confirm Seed Phrase
 
 Confirm your seed phrase. 
 
