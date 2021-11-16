@@ -15,20 +15,19 @@ Go to the Metamask website and download the Metamask browser extension for you O
     
 Step 2
 
-Click on the Metamask logo in the upper right hand corner of your browser.
+Click  "Get Started" and it will begin the setup process.
 
 Step 3
 
-Read and agree to the terms and conditions.
+Enter a Password and click "Create" to make your wallet.
 
 Step 4
 
-Enter a Password and click "Create" to make your wallet.
+Read and agree to the terms and conditions.
 
 Step 5
 
-Next, a set of 12 words will appear, you need to write them down somewhere safe in the exact order they appear. Once you have them
-witten down, click "Proceed"
+Next, a short video will talk to you about the Metamask wallet. Then, a blurred out box will appear, click it and you will see your 12 word seed phrase. You need to write them down somewhere safe in the exact order they appear. Once you have them written down, then proceed with the setup.
 
 Step 6
 
