@@ -20,14 +20,12 @@ Link to metamask.io
 
 ### Step 2: Pick Your Browser
 
-Pick your Browser that you want to add Metamask to. 
-
+Pick your Browser that you want to add Metamask to.
 ![](../../.gitbook/assets/pick-your-browser.png)
 
 ### Step 3: Add Your Browser
 
 Click "Add to browser".
-
 ![](../../.gitbook/assets/add-to-browser.png)
 
 ### Step 4: Add the Extension
