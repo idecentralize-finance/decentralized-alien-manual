@@ -16,3 +16,4 @@
 * [🙋 Support](protocol/support/README.md)
   * [FAQ](protocol/support/faq.md)
   * [Metamask](protocol/support/metamask.md)
+  * [NEAR](protocol/support/near.md)
