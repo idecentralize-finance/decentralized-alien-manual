@@ -8,7 +8,7 @@ description: >-
 
 ![](../../.gitbook/assets/400px-Metamask.png)
 
-### Step 1. Install Metamask
+### Install Metamask
 
 Go to the Metamask website and download the Metamask browser extension for you Operating System.
 
