@@ -73,7 +73,7 @@ Click "reveal seed phrase.
 ![](../../.gitbook/assets/click-to-reveal-seed.png)
 
 ### Step 11: Copy Seed Phrase and Keep It Safe.
-Copy you seed phrase somewhere safe. 
+Copy your seed phrase somewhere safe. 
 
 ![](../../.gitbook/assets/copy-seed-phrase.png)
 
