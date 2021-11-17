@@ -1,10 +1,10 @@
 # Table of contents
 
 * [defi👽 manual](README.md)
-* [👽 DECENTRALIZED ALIENS](decentralized-alien.md)
-* [🛸 SPACE SHIPS](space-ships.md)
-* [🪐 PLANETARY POOL](planetary-pool.md)
-* [🎆 SPICES](spices.md)
+  * [👽 DECENTRALIZED ALIENS](readme/decentralized-alien.md)
+  * [🛸 SPACE SHIPS](readme/space-ships.md)
+  * [🪐 PLANETARY POOL](readme/planetary-pool.md)
+  * [🎆 SPICES](readme/spices.md)
 
 ## Protocol
 
@@ -17,3 +17,4 @@
   * [FAQ](protocol/support/faq.md)
   * [Metamask](protocol/support/metamask.md)
   * [NEAR](protocol/support/near.md)
+  * [ENS names](protocol/support/ens-names.md)

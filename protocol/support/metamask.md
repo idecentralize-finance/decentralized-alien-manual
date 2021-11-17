@@ -12,6 +12,10 @@ description: >-
 
 Go to the Metamask website and download the Metamask browser extension for you Operating System.
 
+{% hint style="warning" %}
+Never share your seed phrase to no one. Don't copy and paste it in a file. Write it down, double check it, store it somewhere safe.
+{% endhint %}
+
 {% embed url="https://metamask.io" %}
 Link to metamask.io
 {% endembed %}
