@@ -17,7 +17,7 @@ description: The Near wallet installation
 
 ![](../../.gitbook/assets/near-create-name.png)
 
-### You will choose one of the following metthods to secure account. The passphrase is a secure method and popular among aliens so we will go with that one.
+### You will choose one of the following methods to secure  the account. The passphrase is a secure method and popular among aliens so we will go with that one.
 
 ![](../../.gitbook/assets/near-secure-passphrase.png)
 
