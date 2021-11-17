@@ -4,7 +4,7 @@ description: >-
   device.
 ---
 
-# Everything an Alien needs to know about Metamask
+# Metamask
 
 ![](../../.gitbook/assets/400px-Metamask.png)
 
@@ -18,72 +18,71 @@ Link to metamask.io
 
 ![](../../.gitbook/assets/metamask-download-screen.png)
 
-### Step 2: Pick Your Browser
+### Select your device type
 
-Pick your Browser that you want to add Metamask to.
+Select the device your using. On your PC Metamask is an extension to your browser. On mobiles device, The browser is an an extension to the Metamask application.
 
 ![](../../.gitbook/assets/pick-your-browser.png)
 
-### Step 3: Add Your Browser
+### Add Metamask to your browser.
 
 Click "Add to browser".
 
 ![](../../.gitbook/assets/add-to-browser.png)
 
-### Step 4: Add the Extension
+### Approve the extension
 
-Click "Add extension." 
+Click "Add extension."
 
 ![](../../.gitbook/assets/add-extension.png)
 
-### Step 5: Get Started 
+### Get Started
 
-Click "Get Started." 
+Click "Get Started."
 
-[](../../.gitbook/assets/get-started.png)
+### Importing or creating a wallet.
 
-### Step 6: Create Wallet
-
-Click "Create a wallet." 
+Click "Create a wallet."
 
 ![](../../.gitbook/assets/create-a-wallet.png)
 
-### Step 7: Agree
+### Agree
 
-Click on "I Agree." 
+Click on "I Agree."
 
 ![](../../.gitbook/assets/click-i-agree.png)
 
-### Step 8: Create Your Password
+### Your Password
 
-Create your password and accept the terms. 
+Create your password and accept the terms.
 
 ![](../../.gitbook/assets/reate-password.png)
 
 ### Step 9: Watch Video
 
-Watch the video for information on your seed phrase. 
+Watch the video for information on your seed phrase.
 
 ![](../../.gitbook/assets/watch-video.png)
 
-### Step 10: Reveal Seed Phrase
+### Reveal Seed Phrase
 
-Click "reveal seed phrase. 
+Click "reveal seed phrase.
 
 ![](../../.gitbook/assets/click-to-reveal-seed.png)
 
-### Step 11: Copy Seed Phrase and Keep It Safe.
-Copy your seed phrase somewhere safe. 
+### Copy Seed Phrase and Keep It Safe.
+
+Copy your seed phrase somewhere safe.
 
 ![](../../.gitbook/assets/copy-seed-phrase.png)
 
-### Step 12: Confirm Seed Phrase
+### Confirm Seed Phrase
 
-Confirm your seed phrase. 
+Confirm your seed phrase.
 
 ![](../../.gitbook/assets/confirm-seed.png)
 
-Upon completion you will be automatically put into Account 1 of your new Metamask Wallet . 
+Upon completion you will be automatically put into Account 1 of your new Metamask Wallet .
 
 ![](../../.gitbook/assets/ETH-mainnet.png)
 
