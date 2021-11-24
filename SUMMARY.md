@@ -10,7 +10,7 @@
 
 * [📡 Networks](protocol/networks/README.md)
   * [Ethereum](protocol/networks/ethereum.md)
-  * [NEAR](protocol/networks/near.md)
+  * [Aurora](protocol/networks/near.md)
 * [📔 Smart Contracts](protocol/smart-contracts.md)
 * [🔐 Security & Monitoring](protocol/security-and-monitoring.md)
 * [🙋 Support](protocol/support/README.md)
