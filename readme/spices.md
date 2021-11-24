@@ -2,7 +2,7 @@
 description: How to fuel your ship
 ---
 
-# [(../../.gitbook/assets/SPICE.png)] SPICES
+# SPICES
 
 ![We have a lift off!](../.gitbook/assets/AdobeStock\_242315944.jpeg)
 
