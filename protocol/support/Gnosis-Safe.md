@@ -1,6 +1,6 @@
 ![](../../.gitbook/assets/gnosis.png)
 
-## Gnosis Safe Vault setup
+## Gnosis Safe Vault Setup
 
 ![](../../.gitbook/assets/gnosis-step-1.png)
 
