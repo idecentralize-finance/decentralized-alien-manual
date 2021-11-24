@@ -1,1 +1,1 @@
-
+![](../../.gitbook/assets/gnosis.png)
