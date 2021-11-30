@@ -1,3 +1,5 @@
+Gnosis Safe 
+
 ![](../../.gitbook/assets/gnosis.png)
 
 ## Gnosis Safe Vault Setup
