@@ -2,6 +2,7 @@
 description: >-
   Gnosis-Safe is an added layer of protection for storing assets as well as using multi-signatures.
 ---
+# Gnosis
 
 ![](../../.gitbook/assets/gnosis.png)
 
