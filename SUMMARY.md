@@ -1,6 +1,6 @@
 # Table of contents
 
-* [defi👽 manual](README.md)
+* [D👽O](README.md)
   * [👽 DECENTRALIZED ALIENS](readme/decentralized-alien.md)
   * [🛸 SPACE SHIPS](readme/space-ships.md)
   * [🪐 PLANETARY POOL](readme/planetary-pool.md)
