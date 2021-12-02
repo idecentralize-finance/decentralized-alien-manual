@@ -18,6 +18,7 @@
   * [Metamask](protocol/support/metamask.md)
   * [NEAR](protocol/support/near.md)
   * [ENS names](protocol/support/ens-names.md)
+  * [Page 1](<protocol/support/Gnosis Safe.md>)
 
 ## API
 
