@@ -1,7 +1,7 @@
 # Table of contents
 
 * [IDFI](README.md)
-* [👽 NFT COLLECTION](<README (1).md>)
+* [👽 NFT COLLECTION](README.md)
   * [👽 DECENTRALIZED ALIENS](readme/decentralized-alien.md)
   * [🛸 SPACE SHIPS](readme/space-ships.md)
   * [🪐 PLANETARY POOL](readme/planetary-pool.md)
