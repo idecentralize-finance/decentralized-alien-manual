@@ -60,8 +60,6 @@ Click on "I Agree."
 
 Create your password and accept the terms.
 
-![](../../.gitbook/assets/reate-password.png)
-
 ### Step 9: Watch Video
 
 Watch the video for information on your seed phrase.

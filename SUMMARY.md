@@ -1,6 +1,6 @@
 # Table of contents
 
-* [DAO](README.md)
+* [Decentralized Alien App](README.md)
   * [👽 DECENTRALIZED ALIENS](readme/decentralized-alien.md)
   * [🛸 SPACE SHIPS](readme/space-ships.md)
   * [🪐 PLANETARY POOL](readme/planetary-pool.md)
@@ -19,6 +19,12 @@
   * [NEAR](protocol/support/near.md)
   * [ENS names](protocol/support/ens-names.md)
   * [Gnosis Safe](protocol/support/gnosis-safe.md)
+
+***
+
+* [IDFI SWAP](idfi-swap.md)
+* [GOVERNANCE](governance/README.md)
+  * [IDFI Governance](governance/idfi-governance.md)
 
 ## API
 
