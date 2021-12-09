@@ -1,12 +1,13 @@
 # Table of contents
 
 * [IDFI](README.md)
-* [👽 NFT COLLECTION](README.md)
+* [👽 NFT COLLECTION](<README (1).md>)
   * [👽 DECENTRALIZED ALIENS](readme/decentralized-alien.md)
   * [🛸 SPACE SHIPS](readme/space-ships.md)
   * [🪐 PLANETARY POOL](readme/planetary-pool.md)
   * [🎆 SPICES](readme/spices.md)
 * [🦄 SWAP](idfi-swap.md)
+* [🍯 STAKE](stake.md)
 * [🌐 GOVERNANCE](governance/README.md)
   * [IDFI Governance](governance/idfi-governance.md)
 * [🙋 Support](protocol/support/README.md)
