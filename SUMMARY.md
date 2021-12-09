@@ -6,15 +6,15 @@
   * [🛸 SPACE SHIPS](readme/space-ships.md)
   * [🪐 PLANETARY POOL](readme/planetary-pool.md)
   * [🎆 SPICES](readme/spices.md)
-* [🦄 SWAP](swap.md)
+* [🦄 SWAP](idfi-swap.md)
 * [🌐 GOVERNANCE](governance/README.md)
   * [IDFI Governance](governance/idfi-governance.md)
-* [🙋 Support](support/README.md)
-  * [FAQ](support/faq.md)
-  * [Metamask](support/metamask.md)
-  * [NEAR](support/near.md)
-  * [ENS names](support/ens-names.md)
-  * [Gnosis Safe](support/gnosis-safe.md)
+* [🙋 Support](protocol/support/README.md)
+  * [FAQ](protocol/support/faq.md)
+  * [Metamask](protocol/support/metamask.md)
+  * [NEAR](protocol/support/near.md)
+  * [ENS names](protocol/support/ens-names.md)
+  * [Gnosis Safe](protocol/support/gnosis-safe.md)
 
 ## Protocol
 

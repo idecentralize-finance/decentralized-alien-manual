@@ -4,8 +4,6 @@ description: Intro to Near Network
 
 # NEAR
 
-
-
 {% embed url="https://wallet.near.org" %}
 
 ### NEAR Wallet Account Setup
