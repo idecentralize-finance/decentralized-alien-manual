@@ -9,7 +9,11 @@ description: Ethereum Network Addresses
 
 {% endtab %}
 
-{% tab title="Rinkeby" %}
-
+{% tab title="Goerli" %}
+|      |                                            |
+| ---- | ------------------------------------------ |
+| IDFI | 0x8A2d42dabEECa4708f4CD6970B6142CF982BCf95 |
+|      |                                            |
+|      |                                            |
 {% endtab %}
 {% endtabs %}

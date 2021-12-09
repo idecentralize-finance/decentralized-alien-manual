@@ -1,10 +1,20 @@
 # Table of contents
 
-* [Decentralized Alien App](README.md)
+* [IDFI](README.md)
+* [👽 NFT COLLECTION](<README (1).md>)
   * [👽 DECENTRALIZED ALIENS](readme/decentralized-alien.md)
   * [🛸 SPACE SHIPS](readme/space-ships.md)
   * [🪐 PLANETARY POOL](readme/planetary-pool.md)
   * [🎆 SPICES](readme/spices.md)
+* [🦄 SWAP](swap.md)
+* [🌐 GOVERNANCE](governance/README.md)
+  * [IDFI Governance](governance/idfi-governance.md)
+* [🙋 Support](support/README.md)
+  * [FAQ](support/faq.md)
+  * [Metamask](support/metamask.md)
+  * [NEAR](support/near.md)
+  * [ENS names](support/ens-names.md)
+  * [Gnosis Safe](support/gnosis-safe.md)
 
 ## Protocol
 
@@ -13,18 +23,6 @@
   * [Aurora](protocol/networks/near.md)
 * [📔 Smart Contracts](protocol/smart-contracts.md)
 * [🔐 Security & Monitoring](protocol/security-and-monitoring.md)
-* [🙋 Support](protocol/support/README.md)
-  * [FAQ](protocol/support/faq.md)
-  * [Metamask](protocol/support/metamask.md)
-  * [NEAR](protocol/support/near.md)
-  * [ENS names](protocol/support/ens-names.md)
-  * [Gnosis Safe](protocol/support/gnosis-safe.md)
-
-***
-
-* [IDFI SWAP](idfi-swap.md)
-* [GOVERNANCE](governance/README.md)
-  * [IDFI Governance](governance/idfi-governance.md)
 
 ## API
 
